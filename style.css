@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h3{
+    width: 100%;
+    margin: 0px;
+    font-size: 35px;
+
+}
+.note{
+    font-size: 25px;
+    color: black;
+}
+#developer{
+    position: fixed;
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 15px;
+    
+}
